@@ -24,3 +24,176 @@
 [08-Nov-2017 22:34:12 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/partials/login_form.php on line 8
 [08-Nov-2017 22:34:12 UTC] PHP Stack trace:
 [08-Nov-2017 22:34:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/login_form.php:0
+[09-Nov-2017 22:15:22 UTC] PHP Warning:  include(partials/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 4
+[09-Nov-2017 22:15:22 UTC] PHP Stack trace:
+[09-Nov-2017 22:15:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[09-Nov-2017 22:15:22 UTC] PHP Warning:  include(): Failed opening 'partials/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_game.php on line 4
+[09-Nov-2017 22:15:22 UTC] PHP Stack trace:
+[09-Nov-2017 22:15:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 20:15:38 UTC] PHP Warning:  move_uploaded_file(/uploads/game1/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 5
+[10-Nov-2017 20:15:38 UTC] PHP Stack trace:
+[10-Nov-2017 20:15:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 20:15:38 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:5
+[10-Nov-2017 20:15:38 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbZl8K6' to '/uploads/game1/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 5
+[10-Nov-2017 20:15:38 UTC] PHP Stack trace:
+[10-Nov-2017 20:15:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 20:15:38 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:5
+[10-Nov-2017 20:16:19 UTC] PHP Warning:  move_uploaded_file(./uploads/game1/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 5
+[10-Nov-2017 20:16:19 UTC] PHP Stack trace:
+[10-Nov-2017 20:16:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 20:16:19 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:5
+[10-Nov-2017 20:16:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJ5cAYl' to './uploads/game1/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 5
+[10-Nov-2017 20:16:19 UTC] PHP Stack trace:
+[10-Nov-2017 20:16:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 20:16:19 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:5
+[10-Nov-2017 20:17:02 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/uploads/game1/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 5
+[10-Nov-2017 20:17:02 UTC] PHP Stack trace:
+[10-Nov-2017 20:17:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 20:17:02 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:5
+[10-Nov-2017 20:17:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMNmDXP' to '/home/ubuntu/workspace/uploads/game1/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 5
+[10-Nov-2017 20:17:02 UTC] PHP Stack trace:
+[10-Nov-2017 20:17:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 20:17:02 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:5
+[10-Nov-2017 21:07:45 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 10
+[10-Nov-2017 21:07:45 UTC] PHP Stack trace:
+[10-Nov-2017 21:07:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:07:45 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/partials/new_game.php:10
+[10-Nov-2017 21:09:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 10
+[10-Nov-2017 21:09:24 UTC] PHP Stack trace:
+[10-Nov-2017 21:09:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:09:24 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/partials/new_game.php:10
+[10-Nov-2017 21:09:24 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/partials/new_game.php on line 13
+[10-Nov-2017 21:09:24 UTC] PHP Stack trace:
+[10-Nov-2017 21:09:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:09:24 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/partials/new_game.php:13
+[10-Nov-2017 21:09:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 10
+[10-Nov-2017 21:09:50 UTC] PHP Stack trace:
+[10-Nov-2017 21:09:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:09:50 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/partials/new_game.php:10
+[10-Nov-2017 21:09:50 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 13
+[10-Nov-2017 21:09:50 UTC] PHP Stack trace:
+[10-Nov-2017 21:09:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:09:50 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/partials/new_game.php:13
+[10-Nov-2017 21:12:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 10
+[10-Nov-2017 21:12:25 UTC] PHP Stack trace:
+[10-Nov-2017 21:12:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:12:25 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/partials/new_game.php:10
+[10-Nov-2017 21:12:25 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 13
+[10-Nov-2017 21:12:25 UTC] PHP Stack trace:
+[10-Nov-2017 21:12:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:12:25 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/partials/new_game.php:13
+[10-Nov-2017 21:12:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 15
+[10-Nov-2017 21:12:25 UTC] PHP Stack trace:
+[10-Nov-2017 21:12:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:12:25 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/partials/new_game.php:15
+[10-Nov-2017 21:20:51 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 10
+[10-Nov-2017 21:20:51 UTC] PHP Stack trace:
+[10-Nov-2017 21:20:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:20:51 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/partials/new_game.php:10
+[10-Nov-2017 21:20:51 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 14
+[10-Nov-2017 21:20:51 UTC] PHP Stack trace:
+[10-Nov-2017 21:20:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:20:51 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/partials/new_game.php:14
+[10-Nov-2017 21:20:51 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 16
+[10-Nov-2017 21:20:51 UTC] PHP Stack trace:
+[10-Nov-2017 21:20:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:20:51 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/partials/new_game.php:16
+[10-Nov-2017 21:21:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 10
+[10-Nov-2017 21:21:14 UTC] PHP Stack trace:
+[10-Nov-2017 21:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:21:14 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/partials/new_game.php:10
+[10-Nov-2017 21:21:14 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 14
+[10-Nov-2017 21:21:14 UTC] PHP Stack trace:
+[10-Nov-2017 21:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:21:14 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/partials/new_game.php:14
+[10-Nov-2017 21:21:14 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 16
+[10-Nov-2017 21:21:14 UTC] PHP Stack trace:
+[10-Nov-2017 21:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:21:14 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/partials/new_game.php:16
+[10-Nov-2017 21:22:07 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 10
+[10-Nov-2017 21:22:07 UTC] PHP Stack trace:
+[10-Nov-2017 21:22:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:22:07 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/partials/new_game.php:10
+[10-Nov-2017 21:23:32 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/partials/new_game.php on line 10
+[10-Nov-2017 21:23:32 UTC] PHP Stack trace:
+[10-Nov-2017 21:23:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:23:32 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/partials/new_game.php:10
+[10-Nov-2017 21:43:30 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/ubuntu/workspace/partials/new_game.php on line 12
+[10-Nov-2017 21:43:30 UTC] PHP Stack trace:
+[10-Nov-2017 21:43:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:54:10 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/uploads/6/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 16
+[10-Nov-2017 21:54:10 UTC] PHP Stack trace:
+[10-Nov-2017 21:54:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:54:10 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:16
+[10-Nov-2017 21:54:10 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplfNplh' to '/home/ubuntu/workspace/uploads/6/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 16
+[10-Nov-2017 21:54:10 UTC] PHP Stack trace:
+[10-Nov-2017 21:54:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:54:10 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:16
+[10-Nov-2017 21:56:57 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/uploads/7/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 16
+[10-Nov-2017 21:56:57 UTC] PHP Stack trace:
+[10-Nov-2017 21:56:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:56:57 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:16
+[10-Nov-2017 21:56:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMAboMY' to '/home/ubuntu/workspace/uploads/7/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 16
+[10-Nov-2017 21:56:57 UTC] PHP Stack trace:
+[10-Nov-2017 21:56:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 21:56:57 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:16
+[10-Nov-2017 22:04:34 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 14
+[10-Nov-2017 22:04:34 UTC] PHP Stack trace:
+[10-Nov-2017 22:04:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:04:34 UTC] PHP   2. mkdir() /home/ubuntu/workspace/partials/new_game.php:14
+[10-Nov-2017 22:04:34 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/uploads/games/10/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:04:34 UTC] PHP Stack trace:
+[10-Nov-2017 22:04:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:04:34 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:04:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOAeMC7' to '/home/ubuntu/workspace/uploads/games/10/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:04:34 UTC] PHP Stack trace:
+[10-Nov-2017 22:04:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:04:34 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:05:21 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 14
+[10-Nov-2017 22:05:21 UTC] PHP Stack trace:
+[10-Nov-2017 22:05:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:05:21 UTC] PHP   2. mkdir() /home/ubuntu/workspace/partials/new_game.php:14
+[10-Nov-2017 22:05:21 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/uploads/games/11/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:05:21 UTC] PHP Stack trace:
+[10-Nov-2017 22:05:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:05:21 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:05:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phps7l6zw' to '/home/ubuntu/workspace/uploads/games/11/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:05:21 UTC] PHP Stack trace:
+[10-Nov-2017 22:05:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:05:21 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:06:11 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 14
+[10-Nov-2017 22:06:11 UTC] PHP Stack trace:
+[10-Nov-2017 22:06:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:06:11 UTC] PHP   2. mkdir() /home/ubuntu/workspace/partials/new_game.php:14
+[10-Nov-2017 22:06:11 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/uploads/games/12/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:06:11 UTC] PHP Stack trace:
+[10-Nov-2017 22:06:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:06:11 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:06:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOL1YuF' to '/home/ubuntu/workspace/uploads/games/12/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:06:11 UTC] PHP Stack trace:
+[10-Nov-2017 22:06:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:06:11 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:07:47 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 14
+[10-Nov-2017 22:07:47 UTC] PHP Stack trace:
+[10-Nov-2017 22:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:07:47 UTC] PHP   2. mkdir() /home/ubuntu/workspace/partials/new_game.php:14
+[10-Nov-2017 22:07:47 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/uploads/games/13/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:07:47 UTC] PHP Stack trace:
+[10-Nov-2017 22:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:07:47 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:07:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprYbPWx' to '/home/ubuntu/workspace/uploads/games/13/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:07:47 UTC] PHP Stack trace:
+[10-Nov-2017 22:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:07:47 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:08:39 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 14
+[10-Nov-2017 22:08:39 UTC] PHP Stack trace:
+[10-Nov-2017 22:08:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:08:39 UTC] PHP   2. mkdir() /home/ubuntu/workspace/partials/new_game.php:14
+[10-Nov-2017 22:08:39 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/uploads/games/14/SketchPad.PNG): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:08:39 UTC] PHP Stack trace:
+[10-Nov-2017 22:08:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:08:39 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[10-Nov-2017 22:08:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpF7LLqD' to '/home/ubuntu/workspace/uploads/games/14/SketchPad.PNG' in /home/ubuntu/workspace/partials/new_game.php on line 17
+[10-Nov-2017 22:08:39 UTC] PHP Stack trace:
+[10-Nov-2017 22:08:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[10-Nov-2017 22:08:39 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17

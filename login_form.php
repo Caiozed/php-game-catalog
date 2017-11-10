@@ -6,7 +6,7 @@
             <?php include 'partials/header.php' ?>
             <div class="jumbotron">
                 <h1>Log in</h1>
-                <form action="partials/login_form.php" method="POST" class="form">
+                <form action="partials/new_login.php" method="POST" class="form">
                     <div class="form-group">
                         <label for="username">Name</label>
                         <input class="form-control form-control-sm" type="text" name="username" required/>
