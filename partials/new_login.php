@@ -14,7 +14,7 @@
         }
         header("Location: /index.php");
     }else{
-        header("Location: /login.php");
+        header("Location: /login_form.php");
     }
     
     mysqli_close($connection);

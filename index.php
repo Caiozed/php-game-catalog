@@ -8,7 +8,7 @@
                     <h1>Hello, <?= $current_user["username"] ?></h1>
                     <figure><img src=""></img></figure>
                     <p>Get started adding your games!</p>
-                    <p><a href="game_form.php" class="btn btn-primary">Add Game</a></p>
+                    <p><a href="new_game_form.php" class="btn btn-primary">Add Game</a></p>
             <?php }else{ ?>
                     <h1>Welcome</h1>
                     <figure><img src=""></img></figure>

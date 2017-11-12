@@ -197,3 +197,7 @@
 [10-Nov-2017 22:08:39 UTC] PHP Stack trace:
 [10-Nov-2017 22:08:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
 [10-Nov-2017 22:08:39 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/partials/new_game.php:17
+[12-Nov-2017 21:25:21 UTC] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/partials/edit_game.php on line 15
+[12-Nov-2017 21:25:21 UTC] PHP Stack trace:
+[12-Nov-2017 21:25:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/edit_game.php:0
+[12-Nov-2017 21:25:21 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/partials/edit_game.php:15

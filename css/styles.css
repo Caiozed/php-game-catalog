@@ -6,3 +6,50 @@
     width: 40%;
     margin: 0 auto;
 }
+
+.game{
+    margin: 10px auto;
+    width: 50%;
+    border-radius: 2px;
+    box-shadow: 5px 2px 5px rgba(0,0,0,.2);
+}
+
+.center-text{
+  text-align: center; 
+}
+
+.game img{
+    display: block;
+    margin: 0 auto;
+}
+
+
+.game-status{
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
+}
+
+.notowned{
+    background: #ff4747;
+}
+
+.notstarted{
+    background: #ff8547;
+}
+
+.inprogress{
+    background: #ffce47;
+}
+
+.finished{
+    background: #38ff6a;
+}
+
+.pagination-custom{
+    text-align: center;
+}
+
+.pagination-custom a{
+    margin: 0 5px;
+}
