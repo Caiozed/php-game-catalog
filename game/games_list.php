@@ -1,6 +1,5 @@
 <?php
-    include "database_connect.php";
-    include "./helper_functions.php";
+    include "./partials/database_connect.php";
     $user_id = $current_user['id'];
     $limit = 10;
     
@@ -34,12 +33,28 @@
     $row = $result->fetch_row();  
     $total_records = $row[0];  
     $total_pages = ceil($total_records / $limit);  
-    $pagLink = "<div class='pagination-custom'>
-                <a class='btn btn-primary' href='user_profile.php?page=".clamp(($page-1), 1, $total_pages)."'>Previous</a>";  
+    $pagLink = "<div class='pagination-custom'>";
+    if($page == 1){
+        $pagLink .= "<a class='btn btn-primary disabled' href='/user_profile.php?page=1'>Previous</a>"; 
+    }else{
+        $pagLink .= "<a class='btn btn-primary' href='/user_profile.php?page=".clamp(($page-1), 1, $total_pages)."'>Previous</a>"; 
+    }
+                 
     for ($i=1; $i<=$total_pages; $i++) {  
-                 $pagLink .= "<a class='btn btn-primary' href='user_profile.php?page=".$i."'>".$i."</a>";  
+        if($page == $i){
+             $pagLink .= "<a class='btn btn-primary disabled' href='/user_profile.php?page=".$i."'>".$i."</a>";  
+        }else{
+            $pagLink .= "<a class='btn btn-primary' href='/user_profile.php?page=".$i."'>".$i."</a>";  
+        }
+                
     };  
-    echo $pagLink . "<a class='btn btn-primary' href='user_profile.php?page=".clamp(($page+1), 1, $total_pages)."'>Next</a></div>";  
+    
+     if($page == $total_pages){
+        echo $pagLink . "<a class='btn btn-primary disabled' href='/user_profile.php?page=".clamp(($page+1), 1, $total_pages)."'>Next</a></div>"; 
+    }else{
+        echo $pagLink . "<a class='btn btn-primary' href='/user_profile.php?page=".clamp(($page+1), 1, $total_pages)."'>Next</a></div>";  
+    }
+    
     
     
     mysqli_close($connection);

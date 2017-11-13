@@ -1,5 +1,5 @@
 <?php
-    include 'database_connect.php';
+    include 'partials/database_connect.php';
     session_start();
     session_destroy();
     setcookie("user_id", "", -1);

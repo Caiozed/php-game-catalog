@@ -1,5 +1,6 @@
 <?php
     include 'database_connect.php';
+    include "helper_functions.php";
     session_start();
     $name = $_POST['username'];
     $password = $_POST['password'];
@@ -12,9 +13,9 @@
         if($remember_me == "on"){
             setcookie("user_id", $user["id"], time() + (86400 * 30), "/");
         }
-        header("Location: /index.php");
+        redirect_to();
     }else{
-        header("Location: /login_form.php");
+        redirect_to ("/login_form.php");
     }
     
     mysqli_close($connection);

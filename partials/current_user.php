@@ -15,12 +15,4 @@
     $result = mysqli_query($connection, $query);
     $current_user = $result->fetch_array();
     mysqli_close($connection);
-    function isLoggedIn(){
-        if(isset($_SESSION["user_id"])||isset($_COOKIE["user_id"])){
-            return true; 
-        }
-        else{
-            return false;
-        } 
-    }
 ?>

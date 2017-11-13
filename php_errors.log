@@ -201,3 +201,333 @@
 [12-Nov-2017 21:25:21 UTC] PHP Stack trace:
 [12-Nov-2017 21:25:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/edit_game.php:0
 [12-Nov-2017 21:25:21 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/partials/edit_game.php:15
+[12-Nov-2017 22:57:25 UTC] PHP Warning:  include(./helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 22:57:25 UTC] PHP Stack trace:
+[12-Nov-2017 22:57:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 22:57:25 UTC] PHP Warning:  include(): Failed opening './helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 22:57:25 UTC] PHP Stack trace:
+[12-Nov-2017 22:57:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 22:57:25 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 22:57:25 UTC] PHP Stack trace:
+[12-Nov-2017 22:57:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 22:58:37 UTC] PHP Warning:  include(./helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 22:58:37 UTC] PHP Stack trace:
+[12-Nov-2017 22:58:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 22:58:37 UTC] PHP Warning:  include(): Failed opening './helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 22:58:37 UTC] PHP Stack trace:
+[12-Nov-2017 22:58:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 22:58:37 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 22:58:37 UTC] PHP Stack trace:
+[12-Nov-2017 22:58:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:00:11 UTC] PHP Warning:  include(./helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:00:11 UTC] PHP Stack trace:
+[12-Nov-2017 23:00:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:00:11 UTC] PHP Warning:  include(): Failed opening './helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:00:11 UTC] PHP Stack trace:
+[12-Nov-2017 23:00:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:00:11 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 23:00:11 UTC] PHP Stack trace:
+[12-Nov-2017 23:00:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:00:28 UTC] PHP Warning:  include(./helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:00:28 UTC] PHP Stack trace:
+[12-Nov-2017 23:00:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:00:28 UTC] PHP Warning:  include(): Failed opening './helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:00:28 UTC] PHP Stack trace:
+[12-Nov-2017 23:00:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:00:28 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 23:00:28 UTC] PHP Stack trace:
+[12-Nov-2017 23:00:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:02:21 UTC] PHP Warning:  include(./helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:02:21 UTC] PHP Stack trace:
+[12-Nov-2017 23:02:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:02:21 UTC] PHP Warning:  include(): Failed opening './helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:02:21 UTC] PHP Stack trace:
+[12-Nov-2017 23:02:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:02:21 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 23:02:21 UTC] PHP Stack trace:
+[12-Nov-2017 23:02:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:03:41 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 23:03:41 UTC] PHP Stack trace:
+[12-Nov-2017 23:03:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:03:49 UTC] PHP Warning:  include(./helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:03:49 UTC] PHP Stack trace:
+[12-Nov-2017 23:03:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:03:49 UTC] PHP Warning:  include(): Failed opening './helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:03:49 UTC] PHP Stack trace:
+[12-Nov-2017 23:03:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:03:49 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 23:03:49 UTC] PHP Stack trace:
+[12-Nov-2017 23:03:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:04:05 UTC] PHP Warning:  include(./helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:04:05 UTC] PHP Stack trace:
+[12-Nov-2017 23:04:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:04:05 UTC] PHP Warning:  include(): Failed opening './helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:04:05 UTC] PHP Stack trace:
+[12-Nov-2017 23:04:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:04:05 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 23:04:05 UTC] PHP Stack trace:
+[12-Nov-2017 23:04:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:05:20 UTC] PHP Warning:  include(helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:05:20 UTC] PHP Stack trace:
+[12-Nov-2017 23:05:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:05:20 UTC] PHP Warning:  include(): Failed opening 'helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[12-Nov-2017 23:05:20 UTC] PHP Stack trace:
+[12-Nov-2017 23:05:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:05:20 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[12-Nov-2017 23:05:20 UTC] PHP Stack trace:
+[12-Nov-2017 23:05:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[12-Nov-2017 23:13:02 UTC] PHP Warning:  include(./helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_game.php on line 4
+[12-Nov-2017 23:13:02 UTC] PHP Stack trace:
+[12-Nov-2017 23:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[12-Nov-2017 23:13:02 UTC] PHP Warning:  include(): Failed opening './helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_game.php on line 4
+[12-Nov-2017 23:13:02 UTC] PHP Stack trace:
+[12-Nov-2017 23:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[12-Nov-2017 23:13:02 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/partials/new_game.php on line 5
+[12-Nov-2017 23:13:02 UTC] PHP Stack trace:
+[12-Nov-2017 23:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_game.php:0
+[13-Nov-2017 20:52:48 UTC] PHP Warning:  include(/helper_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/partials/new_login.php on line 3
+[13-Nov-2017 20:52:48 UTC] PHP Stack trace:
+[13-Nov-2017 20:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[13-Nov-2017 20:52:48 UTC] PHP Warning:  include(): Failed opening '/helper_functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/partials/new_login.php on line 3
+[13-Nov-2017 20:52:48 UTC] PHP Stack trace:
+[13-Nov-2017 20:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[13-Nov-2017 20:52:48 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/ubuntu/workspace/partials/new_login.php on line 16
+[13-Nov-2017 20:52:48 UTC] PHP Stack trace:
+[13-Nov-2017 20:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/partials/new_login.php:0
+[13-Nov-2017 20:54:18 UTC] PHP Warning:  include(../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:54:18 UTC] PHP Stack trace:
+[13-Nov-2017 20:54:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:54:18 UTC] PHP Warning:  include(): Failed opening '../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:54:18 UTC] PHP Stack trace:
+[13-Nov-2017 20:54:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:54:18 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 20:54:18 UTC] PHP Stack trace:
+[13-Nov-2017 20:54:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:12 UTC] PHP Warning:  include(./partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:55:12 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:12 UTC] PHP Warning:  include(): Failed opening './partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:55:12 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:12 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 20:55:12 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:21 UTC] PHP Warning:  include(../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:55:21 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:21 UTC] PHP Warning:  include(): Failed opening '../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:55:21 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:21 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 20:55:21 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:37 UTC] PHP Warning:  include(/partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:55:37 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:37 UTC] PHP Warning:  include(): Failed opening '/partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:55:37 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:55:37 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 20:55:37 UTC] PHP Stack trace:
+[13-Nov-2017 20:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:56:05 UTC] PHP Warning:  include(../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:56:05 UTC] PHP Stack trace:
+[13-Nov-2017 20:56:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:56:05 UTC] PHP Warning:  include(): Failed opening '../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:56:05 UTC] PHP Stack trace:
+[13-Nov-2017 20:56:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:56:05 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 20:56:05 UTC] PHP Stack trace:
+[13-Nov-2017 20:56:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:57:47 UTC] PHP Warning:  include(/home/ubuntu/workspace../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:57:47 UTC] PHP Stack trace:
+[13-Nov-2017 20:57:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:57:47 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:57:47 UTC] PHP Stack trace:
+[13-Nov-2017 20:57:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:57:47 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 20:57:47 UTC] PHP Stack trace:
+[13-Nov-2017 20:57:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:57:53 UTC] PHP Warning:  include(/home/ubuntu/workspace/partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:57:53 UTC] PHP Stack trace:
+[13-Nov-2017 20:57:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:57:53 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:57:53 UTC] PHP Stack trace:
+[13-Nov-2017 20:57:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:57:53 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 20:57:53 UTC] PHP Stack trace:
+[13-Nov-2017 20:57:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:58:49 UTC] PHP Warning:  include(../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:58:49 UTC] PHP Stack trace:
+[13-Nov-2017 20:58:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:58:49 UTC] PHP Warning:  include(): Failed opening '../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 20:58:49 UTC] PHP Stack trace:
+[13-Nov-2017 20:58:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 20:58:49 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 20:58:49 UTC] PHP Stack trace:
+[13-Nov-2017 20:58:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:00:12 UTC] PHP Warning:  include(../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:00:12 UTC] PHP Stack trace:
+[13-Nov-2017 21:00:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:00:12 UTC] PHP Warning:  include(): Failed opening '../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:00:12 UTC] PHP Stack trace:
+[13-Nov-2017 21:00:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:00:12 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 21:00:12 UTC] PHP Stack trace:
+[13-Nov-2017 21:00:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:15 UTC] PHP Warning:  include(../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:02:15 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:15 UTC] PHP Warning:  include(): Failed opening '../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:02:15 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:15 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 21:02:15 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:35 UTC] PHP Warning:  include(../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:02:35 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:35 UTC] PHP Warning:  include(): Failed opening '../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:02:35 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:35 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 21:02:35 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:44 UTC] PHP Warning:  include(../partials/helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:02:44 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:44 UTC] PHP Warning:  include(): Failed opening '../partials/helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:02:44 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:44 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 21:02:44 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:59 UTC] PHP Warning:  include(./helper_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:02:59 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:59 UTC] PHP Warning:  include(): Failed opening './helper_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_status.php on line 4
+[13-Nov-2017 21:02:59 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:02:59 UTC] PHP Fatal error:  Call to undefined function redirect_to_login() in /home/ubuntu/workspace/game/edit_game_status.php on line 5
+[13-Nov-2017 21:02:59 UTC] PHP Stack trace:
+[13-Nov-2017 21:02:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_status.php:0
+[13-Nov-2017 21:19:09 UTC] PHP Fatal error:  Cannot redeclare clamp() (previously declared in /home/ubuntu/workspace/partials/helper_functions.php:2) in /home/ubuntu/workspace/partials/helper_functions.php on line 2
+[13-Nov-2017 21:19:09 UTC] PHP Stack trace:
+[13-Nov-2017 21:19:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user_form.php:0
+[13-Nov-2017 21:19:09 UTC] PHP   2. include() /home/ubuntu/workspace/user/edit_user_form.php:10
+[13-Nov-2017 21:33:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/user/edit_user.php on line 10
+[13-Nov-2017 21:33:05 UTC] PHP Stack trace:
+[13-Nov-2017 21:33:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user.php:0
+[13-Nov-2017 21:33:05 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/user/edit_user.php:10
+[13-Nov-2017 21:33:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ubuntu/workspace/user/edit_user.php on line 16
+[13-Nov-2017 21:33:05 UTC] PHP Stack trace:
+[13-Nov-2017 21:33:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user.php:0
+[13-Nov-2017 21:33:05 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/user/edit_user.php:16
+[13-Nov-2017 21:33:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/user/edit_user.php on line 10
+[13-Nov-2017 21:33:11 UTC] PHP Stack trace:
+[13-Nov-2017 21:33:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user.php:0
+[13-Nov-2017 21:33:11 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/user/edit_user.php:10
+[13-Nov-2017 21:33:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ubuntu/workspace/user/edit_user.php on line 16
+[13-Nov-2017 21:33:11 UTC] PHP Stack trace:
+[13-Nov-2017 21:33:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user.php:0
+[13-Nov-2017 21:33:11 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/user/edit_user.php:16
+[13-Nov-2017 21:33:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/user/edit_user.php on line 10
+[13-Nov-2017 21:33:17 UTC] PHP Stack trace:
+[13-Nov-2017 21:33:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user.php:0
+[13-Nov-2017 21:33:17 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/user/edit_user.php:10
+[13-Nov-2017 21:33:17 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ubuntu/workspace/user/edit_user.php on line 16
+[13-Nov-2017 21:33:17 UTC] PHP Stack trace:
+[13-Nov-2017 21:33:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user.php:0
+[13-Nov-2017 21:33:17 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/user/edit_user.php:16
+[13-Nov-2017 21:33:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/user/edit_user.php on line 10
+[13-Nov-2017 21:33:29 UTC] PHP Stack trace:
+[13-Nov-2017 21:33:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user.php:0
+[13-Nov-2017 21:33:29 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/user/edit_user.php:10
+[13-Nov-2017 21:33:29 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ubuntu/workspace/user/edit_user.php on line 16
+[13-Nov-2017 21:33:29 UTC] PHP Stack trace:
+[13-Nov-2017 21:33:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/edit_user.php:0
+[13-Nov-2017 21:33:29 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/user/edit_user.php:16
+[13-Nov-2017 22:54:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/game/edit_game_form.php on line 7
+[13-Nov-2017 22:54:30 UTC] PHP Stack trace:
+[13-Nov-2017 22:54:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_form.php:0
+[13-Nov-2017 22:54:30 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/game/edit_game_form.php:7
+[13-Nov-2017 22:54:30 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/ubuntu/workspace/game/edit_game_form.php on line 8
+[13-Nov-2017 22:54:30 UTC] PHP Stack trace:
+[13-Nov-2017 22:54:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_form.php:0
+[13-Nov-2017 22:55:20 UTC] PHP Warning:  include(../partials/database_connection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/game/edit_game_form.php on line 4
+[13-Nov-2017 22:55:20 UTC] PHP Stack trace:
+[13-Nov-2017 22:55:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_form.php:0
+[13-Nov-2017 22:55:20 UTC] PHP Warning:  include(): Failed opening '../partials/database_connection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/game/edit_game_form.php on line 4
+[13-Nov-2017 22:55:20 UTC] PHP Stack trace:
+[13-Nov-2017 22:55:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_form.php:0
+[13-Nov-2017 22:55:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/game/edit_game_form.php on line 8
+[13-Nov-2017 22:55:20 UTC] PHP Stack trace:
+[13-Nov-2017 22:55:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_form.php:0
+[13-Nov-2017 22:55:20 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/game/edit_game_form.php:8
+[13-Nov-2017 22:55:20 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/ubuntu/workspace/game/edit_game_form.php on line 9
+[13-Nov-2017 22:55:20 UTC] PHP Stack trace:
+[13-Nov-2017 22:55:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game_form.php:0
+[13-Nov-2017 23:21:57 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:21:57 UTC] PHP Stack trace:
+[13-Nov-2017 23:21:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:21:57 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:22:55 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 20
+[13-Nov-2017 23:22:55 UTC] PHP Stack trace:
+[13-Nov-2017 23:22:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:22:55 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:20
+[13-Nov-2017 23:23:23 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:23:23 UTC] PHP Stack trace:
+[13-Nov-2017 23:23:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:23:23 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:23:54 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:23:54 UTC] PHP Stack trace:
+[13-Nov-2017 23:23:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:23:54 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:24:15 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:24:15 UTC] PHP Stack trace:
+[13-Nov-2017 23:24:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:24:15 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:24:29 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:24:29 UTC] PHP Stack trace:
+[13-Nov-2017 23:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:24:29 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:26:55 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:26:55 UTC] PHP Stack trace:
+[13-Nov-2017 23:26:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:26:55 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:28:17 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 20
+[13-Nov-2017 23:28:17 UTC] PHP Stack trace:
+[13-Nov-2017 23:28:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:28:17 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:20
+[13-Nov-2017 23:29:21 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 20
+[13-Nov-2017 23:29:21 UTC] PHP Stack trace:
+[13-Nov-2017 23:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:29:21 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:20
+[13-Nov-2017 23:30:24 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:30:24 UTC] PHP Stack trace:
+[13-Nov-2017 23:30:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:30:24 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:30:31 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:30:31 UTC] PHP Stack trace:
+[13-Nov-2017 23:30:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:30:31 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:31:03 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:31:03 UTC] PHP Stack trace:
+[13-Nov-2017 23:31:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:31:03 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:31:16 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 21
+[13-Nov-2017 23:31:16 UTC] PHP Stack trace:
+[13-Nov-2017 23:31:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:31:16 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:21
+[13-Nov-2017 23:34:02 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 22
+[13-Nov-2017 23:34:02 UTC] PHP Stack trace:
+[13-Nov-2017 23:34:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:34:02 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:22
+[13-Nov-2017 23:34:09 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 22
+[13-Nov-2017 23:34:09 UTC] PHP Stack trace:
+[13-Nov-2017 23:34:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:34:09 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:22
+[13-Nov-2017 23:35:28 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/game/edit_game.php on line 22
+[13-Nov-2017 23:35:28 UTC] PHP Stack trace:
+[13-Nov-2017 23:35:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[13-Nov-2017 23:35:28 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:22
