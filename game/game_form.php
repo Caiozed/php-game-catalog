@@ -14,7 +14,7 @@
         <input type="hidden" name="game_id" value="<?=$game_id?>" />
     <?php } ?>
 </div>
-<input type="submit" value="Add Game" class="btn btn-primary"/>
+<input type="submit" value="<?= $btn ?>" class="btn btn-primary"/>
 
 
 

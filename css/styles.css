@@ -2,6 +2,18 @@
     text-align: center;   
 }
 
+.navbar-inverse{
+    background-color: rgba(0,0,0,.5);    
+}
+
+.navbar-inverse a{
+    color: white;
+}
+
+.navbar-inverse a:hover{
+    color: #007bff;
+}
+
 .form{
     width: 40%;
     margin: 0 auto;
@@ -33,6 +45,16 @@
     width: 100%;
     margin: 10px auto; 
     text-align: center;
+}
+
+.hidden-options{
+    width: 100%;
+    margin: 10px auto; 
+    text-align: center;
+}
+
+input[type="submit"]{
+    cursor: pointer;    
 }
 
 .notowned{

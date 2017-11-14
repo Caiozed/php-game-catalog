@@ -16,7 +16,7 @@
 --              ); 
 -- DROP TABLE games;
 -- DROP TABLE users;
--- select * from users;
--- select * from games;
+ select * from users;
+ select * from games;
 -- delete from users where id > 0;
 

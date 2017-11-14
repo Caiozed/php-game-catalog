@@ -8,7 +8,7 @@
     }else{
         $page = 1;
     };
-    
+    //Set essential variables
     $start_from = ($page-1) * $limit;
     $query = "SELECT * FROM games where user_id = '$user_id' ORDER BY name ASC LIMIT $start_from, $limit";
     $query2 = "SELECT COUNT(id) FROM games WHERE user_id = '$user_id'";  
@@ -20,7 +20,7 @@
         $games[] = $game;
     }
     
-    
+    //Insert game template wih data on page
     foreach($games as $game){
         $id = $game['id'];
         $image = $game['image']; 
@@ -30,6 +30,7 @@
         include "game_template.php";
     }   
     
+    //Pagination 
     $row = $result->fetch_row();  
     $total_records = $row[0];  
     $total_pages = ceil($total_records / $limit);  

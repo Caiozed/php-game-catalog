@@ -5,6 +5,7 @@
         <div class="container">
             <?php include 'partials/header.php' ?>
             <div class="jumbotron">
+                 <?php include 'partials/errors.php' ?>
                 <h1>Log in</h1>
                 <form action="partials/new_login.php" method="POST" class="form">
                     <div class="form-group">

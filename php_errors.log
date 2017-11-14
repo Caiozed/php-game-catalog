@@ -531,3 +531,24 @@
 [13-Nov-2017 23:35:28 UTC] PHP Stack trace:
 [13-Nov-2017 23:35:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
 [13-Nov-2017 23:35:28 UTC] PHP   2. mkdir() /home/ubuntu/workspace/game/edit_game.php:22
+[14-Nov-2017 20:32:35 UTC] PHP Warning:  rmdir(/home/ubuntu/workspace/uploads/games/2/download.jfif): Not a directory in /home/ubuntu/workspace/game/destroy_game.php on line 9
+[14-Nov-2017 20:32:35 UTC] PHP Stack trace:
+[14-Nov-2017 20:32:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/destroy_game.php:0
+[14-Nov-2017 20:32:35 UTC] PHP   2. rmdir() /home/ubuntu/workspace/game/destroy_game.php:9
+[14-Nov-2017 20:33:02 UTC] PHP Warning:  rmdir(/home/ubuntu/workspace/uploads/games//download.jfif): Not a directory in /home/ubuntu/workspace/game/destroy_game.php on line 9
+[14-Nov-2017 20:33:02 UTC] PHP Stack trace:
+[14-Nov-2017 20:33:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/destroy_game.php:0
+[14-Nov-2017 20:33:02 UTC] PHP   2. rmdir() /home/ubuntu/workspace/game/destroy_game.php:9
+[14-Nov-2017 20:53:37 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/game/edit_game.php on line 24
+[14-Nov-2017 20:53:37 UTC] PHP Stack trace:
+[14-Nov-2017 20:53:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[14-Nov-2017 20:53:37 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/ubuntu/workspace/game/edit_game.php on line 30
+[14-Nov-2017 20:53:37 UTC] PHP Stack trace:
+[14-Nov-2017 20:53:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/game/edit_game.php:0
+[14-Nov-2017 22:14:53 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fecth_array() in /home/ubuntu/workspace/user/destroy_user.php on line 11
+[14-Nov-2017 22:14:53 UTC] PHP Stack trace:
+[14-Nov-2017 22:14:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/destroy_user.php:0
+[14-Nov-2017 22:21:12 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/home/ubuntu/workspace/uploads/): No such file or directory in /home/ubuntu/workspace/user/destroy_user.php on line 17
+[14-Nov-2017 22:21:12 UTC] PHP Stack trace:
+[14-Nov-2017 22:21:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/user/destroy_user.php:0
+[14-Nov-2017 22:21:12 UTC] PHP   2. unlink() /home/ubuntu/workspace/user/destroy_user.php:17

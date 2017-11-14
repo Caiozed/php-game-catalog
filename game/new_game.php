@@ -25,11 +25,13 @@
                 move_uploaded_file($file["tmp_name"], $uploaddir);
                 redirect_to("/user_profile.php");
             }else{
+                $_SESSION['errors'] = "Game already added";
                 redirect_to("./new_game_form.php");
             }
         }
 
     }else{
+        $_SESSION['errors'] = "Game already added";
         redirect_to("./new_game_form.php");
     };
 

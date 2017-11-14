@@ -15,6 +15,7 @@
         }
         redirect_to();
     }else{
+        $_SESSION["errors"] = "Wrong username or password";
         redirect_to ("/login_form.php");
     }
     

@@ -4,10 +4,10 @@
     };
     
     function is_logged_in(){
+        session_start();
         if(isset($_SESSION["user_id"])||isset($_COOKIE["user_id"])){
             return true; 
-        }
-        else{
+        }else{
             return false;
         } 
     }

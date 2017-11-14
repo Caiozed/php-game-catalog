@@ -6,4 +6,4 @@
     <label for="password">Password</label>
     <input class="form-control form-control-sm" type="password" name="password" value="<?= $current_user['password'] ?>"required/>
 </div>
-<input type="submit" value="Sign up" class="btn btn-primary"/>
+<input type="submit" value="<?= $btn ?>" class="btn btn-primary"/>

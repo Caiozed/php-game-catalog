@@ -1,5 +1,5 @@
-<nav>
-    <ul class="navbar nav">
+<nav class="navbar-inverse">
+    <ul class="nav navbar">
         <li><a href="/index.php">Home</a></li>
         <li><a href="/user/edit_user_form.php">Update info</a></li>
         <?php

@@ -8,7 +8,16 @@
         <input type="hidden" name="game_id" value="<?= $id ?>"/>
         <div class="options">
             <input type="submit" value="Update Status" class="btn btn-primary"/>
-            <a href="game/edit_game_form.php?game_id=<?= $id ?>" class="btn btn-danger">Edit</a>
+            <span class="more btn btn-info"><i class="fa fa-plus-circle" aria-hidden="true"></i></span>
         </div>
-    </form>    
+    </form> 
+    
+    <div class="hidden-options">
+        <form action='game/destroy_game.php' method='POST' class='form'>
+            <a href="game/edit_game_form.php?game_id=<?= $id ?>" class="btn btn-primary">Edit</a>
+            <input type="submit" value="Delete" class="btn btn-danger"/>
+            <input type="hidden" name="game_id" value="<?= $id ?>"/>
+            <input type="hidden" name="image" value="<?= $_SERVER["DOCUMENT_ROOT"].$image ?>"/>
+        </form>
+    </div>
  </article>

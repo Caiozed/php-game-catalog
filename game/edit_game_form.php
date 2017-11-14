@@ -3,6 +3,7 @@
     <?php include "../partials/libs.php";
         include "../partials/database_connect.php";
         redirect_to_login();
+        $btn = "Update";
         $game_id = $_GET["game_id"];
         $query = "SELECT * FROM games WHERE id = '$game_id'";
         $game = mysqli_query($connection, $query);
