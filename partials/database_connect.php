@@ -1,7 +1,7 @@
 <?php
     $WEBSITE_ENVIRONMENT = "Development";
     // detect the URL to determine if it's development or production
-    if($_SERVER['HTTP_HOST'] == 'https://php-gamewebsite-caiozed.c9users.io/') $WEBSITE_ENVIRONMENT = "Production";
+    if($_SERVER['HTTP_HOST'] == 'https://murmuring-taiga-89682.herokuapp.com') $WEBSITE_ENVIRONMENT = "Production";
     // value of variables will change depending on if Development vs Production
     if ($WEBSITE_ENVIRONMENT =="Development") {
         $host = "127.0.0.1";
@@ -23,7 +23,7 @@
     	#error_reporting(0); // turn OFF showing errors
     	error_reporting(E_ALL ^ E_NOTICE); // turn ON showing errors			
     }
-    echo $WEBSITE_ENVIRONMENT; 
+    echo $_SERVER['HTTP_HOST']; 
     $connection = mysqli_connect($host, $user, $password, $database) or die(mysqli_connect_error());
     mysqli_select_db($connection, $database);
 ?>
