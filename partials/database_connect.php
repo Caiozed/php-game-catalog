@@ -23,7 +23,6 @@
     	#error_reporting(0); // turn OFF showing errors
     	error_reporting(E_ALL ^ E_NOTICE); // turn ON showing errors			
     }
-    echo $_SERVER['HTTP_HOST']; 
     $connection = mysqli_connect($host, $user, $password, $database) or die(mysqli_connect_error());
     mysqli_select_db($connection, $database);
 ?>
