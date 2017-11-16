@@ -1,7 +1,7 @@
 <?php
     $WEBSITE_ENVIRONMENT = "Development";
     // detect the URL to determine if it's development or production
-    if($_SERVER['HTTP_HOST'] == 'https://murmuring-taiga-89682.herokuapp.com') $WEBSITE_ENVIRONMENT = "Production";
+    if($_SERVER['HTTP_HOST'] == 'murmuring-taiga-89682.herokuapp.com') $WEBSITE_ENVIRONMENT = "Production";
     // value of variables will change depending on if Development vs Production
     if ($WEBSITE_ENVIRONMENT =="Development") {
         $host = "127.0.0.1";
