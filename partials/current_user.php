@@ -11,8 +11,9 @@
         $id = null;
     }
     
-    $query = "SELECT * FROM users WHERE id = '$id' ";
+    /*$query = "SELECT * FROM users WHERE id = '$id' ";
     $result = mysqli_query($connection, $query);
     $current_user = $result->fetch_array();
     mysqli_close($connection);
+    echo*/
 ?>
