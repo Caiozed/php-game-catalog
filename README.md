@@ -1,1 +1,1 @@
-# PHP game catalog
+# PHP game catalog, Live demo at: https://murmuring-taiga-89682.herokuapp.com/index.php
