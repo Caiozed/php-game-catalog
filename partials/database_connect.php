@@ -1,11 +1,7 @@
 <?php
-    
-
-    
-    
     $WEBSITE_ENVIRONMENT = "Development";
     // detect the URL to determine if it's development or production
-    if(stristr($_SERVER['HTTP_HOST'], 'localhost') === FALSE) $WEBSITE_ENVIRONMENT = "Production";
+    if($_SERVER['HTTP_HOST'] == 'https://php-gamewebsite-caiozed.c9users.io/') $WEBSITE_ENVIRONMENT = "Production";
     // value of variables will change depending on if Development vs Production
     if ($WEBSITE_ENVIRONMENT =="Development") {
         $host = "127.0.0.1";
@@ -14,7 +10,7 @@
         $database = "c9";
     	
     	define("APP_ENVIRONMENT", "Development");
-    	define("APP_BASE_URL", "http://localhost");
+    	define("APP_BASE_URL", "https://127.0.0.1");
     	error_reporting(E_ALL ^ E_NOTICE); // turn ON showing errors
     } else {
     	$cleardb_url 		= parse_url(getenv("CLEARDB_DATABASE_URL"));
