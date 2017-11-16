@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <?php include "../partials/libs.php";
-        
         redirect_to_login();
         $btn = "Create";
     ?>
